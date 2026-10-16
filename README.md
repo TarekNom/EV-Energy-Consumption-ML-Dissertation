@@ -71,6 +71,6 @@ The study uses a relatively small harmonised sample and has limitations related 
 
 ## Academic Context
 
-This repository accompanies an MSc Data Science dissertation undertaken through Unicaf delivered through Unicaf and awarded by the University of East London (UEL).
+This repository accompanies an MSc Data Science dissertation undertaken through Unicaf and awarded by the University of East London (UEL).
 
 The code is provided for academic transparency and reproducibility. Original dataset licensing and attribution requirements remain applicable.
