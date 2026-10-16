@@ -1,6 +1,8 @@
-# Predicting Electric Vehicle Energy Consumption Using Machine Learning
+# A Machine Learning Approach to Predicting Electric Vehicle Energy Consumption and Supporting Range Estimation Using Driving Behaviour and Environmental Data
 
-**MSc Data Science Dissertation — University of East London**
+**MSc Data Science Dissertation**
+
+**University of East London (UEL) | Unicaf**
 
 ## Project Overview
 
@@ -69,6 +71,6 @@ The study uses a relatively small harmonised sample and has limitations related 
 
 ## Academic Context
 
-This repository accompanies an MSc Data Science dissertation submitted to the University of East London.
+This repository accompanies an MSc Data Science dissertation undertaken through Unicaf in partnership with the University of East London (UEL).
 
 The code is provided for academic transparency and reproducibility. Original dataset licensing and attribution requirements remain applicable.
